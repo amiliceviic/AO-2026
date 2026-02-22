@@ -1,0 +1,9 @@
+Ime: Stanko
+Prezime: Stankovic
+JMBG: 7777777777777
+Email: stankostankovic@gmail.com
+Datum volontiranja: 2026-01-24
+Smena: VECERNJA
+Pozicija: MEDIJI
+Datum prijave: 2026-01-21
+Status prijave: U_OBRADI

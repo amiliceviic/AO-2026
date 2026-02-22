@@ -1,0 +1,9 @@
+Ime: Pera
+Prezime: Peric
+JMBG: 1199228833773
+Email: peraperic@gmail.com
+Datum volontiranja: 2026-01-26
+Smena: POPODNEVNA
+Pozicija: MEDIJI
+Datum prijave: 2026-01-21
+Status prijave: U_OBRADI

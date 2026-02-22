@@ -1,0 +1,9 @@
+Ime: Aleksandar
+Prezime: Milicevic
+JMBG: 1122334455667
+Email: aleksandarmilicevic@gmail.com
+Datum volontiranja: 2026-01-28
+Smena: POPODNEVNA
+Pozicija: MEDIJI
+Datum prijave: 2026-01-21
+Status prijave: U_OBRADI

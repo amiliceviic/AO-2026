@@ -1,0 +1,9 @@
+Ime: Zika
+Prezime: Zikic
+JMBG: 9900990099009
+Email: zikazikic@gmail.com
+Datum volontiranja: 2026-01-26
+Smena: VECERNJA
+Pozicija: OSOBLJE_ZA_INFORMACIJE
+Datum prijave: 2026-01-21
+Status prijave: U_OBRADI
